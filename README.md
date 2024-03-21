@@ -1,4 +1,3 @@
-<h1>README</h1><br>
+README
 
-<p>This repo contains a waste management web based app.
-</p>
+This repo contains a waste management web based app.
