@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Waste_Management_App.props" />
+</Project>
