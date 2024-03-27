@@ -1,0 +1,51 @@
+﻿@page
+@using Waste_Management_App.Model
+@model Waste_Management_App.Pages.Collections.ViewCollectionsModel
+@{
+}
+<a href="/Home" class="btn-primary " style="text-decoration:none">Back</a>
+<br>
+<h3>Collections</h3>
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert-dismissible fade show' role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Date</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Contact Number</th>
+            <th>Business Name</th>
+            <th>Waste Type</th>
+            <th>Collection Type</th>
+            <th>Weight</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Collection item in Model.listOfCollections) 
+        { 
+        <tr>
+                <td>@item.id</td>
+                <td>@item.date</td>
+                <td>@item.name</td>
+                <td>@item.surname</td>
+                <td>@item.contact_number</td>
+                <td>@item.business_name</td>
+                <td>@item.waste_type</td>
+                <td>@item.collection_type</td>
+                <td>@item.weight</td>
+               
+                
+                
+        </tr>
+        }
+    </tbody>
+    
+</table>

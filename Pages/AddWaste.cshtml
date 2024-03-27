@@ -1,0 +1,106 @@
+﻿@page
+@model Waste_Management_App.Pages.AddWasteModel
+@{
+}
+<a href="/Home" class="btn-primary " style="text-decoration:none">Back</a>
+<br>
+<h2>Add Waste</h2>
+@if (Model.errorMessage.Length > 0)
+{
+<div class='alert alert-warning alert-dismissible fade show' role="alert">
+    <strong>@Model.errorMessage</strong>
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>    
+}
+
+
+<form method="post">
+    <!--Name-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Name</label>
+        <div class="col-sm-6">
+           <input type="text" class="form-control" name="name" value="">
+        </div>
+    </div>
+    <!--Surname-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Surame</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="surname" value="">
+        </div>
+    </div>
+    <!--Contact Number-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Contact Number</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="contact_number" value="">
+        </div>
+    </div>
+    <!--Business Name-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Business Name</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="business_name" value="">
+        </div>
+    </div>
+    <!--Waste Type-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Waste Type</label>
+        <div class="col-sm-6">
+            <fieldset>
+
+                <select id="CollectionType" name="waste_type" value="">
+                    <option value=""> </option>
+
+                    <option value="Paper">Paper</option>
+
+                    <option value="Cardboard">Cardboard</option>
+
+                    <option value="Metal">Metals</option>
+
+                    <option value="Glass Bottles">Glass Bottles</option>
+
+                    <option value="Aluminium Cans">Aluminium Cans</option>
+
+                    <option value="Plastic">Plastics</option>
+
+                </select>
+            </fieldset>
+        </div>
+    </div>
+    <!--Collection Type-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Collection Type</label>
+        <div class="col-sm-6">
+            <fieldset>
+              
+                <select id="CollectionType" name="CollectionType" value="">
+                    <option value="">       </option>
+
+                    <option value="Donation">Donation</option>
+
+                    <option value="Collection">Collection</option>
+
+                </select>
+                </fieldset>
+        </div>
+    </div>
+    <!--Weight-->
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Weight</label>
+        <div class="col-sm-2">
+            <input type="number" step="0.1" class="form-control" name="weight" value="">
+            
+        </div>
+       <div class="col-sm-1">kg</div>
+    </div>
+   
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/Home" role="button">Cancel</a>
+        </div>
+    </div>
+</form>

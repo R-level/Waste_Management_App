@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Waste_Management_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f7ed08d597926ab0ba313bf0ef27d1ed60bf6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92debc583a06e507fe6e2a3d962d0c408a50dd1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Waste_Management_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Waste_Management_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

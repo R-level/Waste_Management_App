@@ -1,0 +1,74 @@
+﻿@page
+@using Waste_Management_App.Model
+@model ViewSalesModel
+@{
+}
+<a href="/Home" class="btn-primary " style="text-decoration:none">Back</a>
+<br />
+<h3>Sales</h3>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert-dismissible fade show' role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Date</th>
+            <th>Company Name</th>
+            <th>Contact Number</th>
+
+            <th>Glass Weight</th>
+            <th>Glass Price</th>
+
+            <th>Metal Weight</th>
+            <th>Metal Price</th>
+
+            <th>Cardboard Weight</th>
+            <th>Cardboard Price</th>
+
+            <th>Can Weight</th>
+            <th>Can Price</th>
+
+            <th>Paper Weight</th>
+            <th>Paper Price</th>
+
+            <th>Plastic Weight</th>
+            <th>Plastic Price</th>
+
+            <th>Sales Total</th>
+           
+            
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Sale item in Model.listOfSales)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.date</td>
+                <td>@item.company_name</td>
+                <td>@item.company_contact</td>
+                <td>@item.glass_bottle_weight</td>
+                <td>@item.glass_bottle_price</td>
+                <td>@item.metal_weight</td>
+                <td>@item.metal_price</td>
+                <td>@item.cardboard_weight</td>
+                <td>@item.cardboard_price</td>
+                <td>@item.aluminium_can_weight</td>
+                <td>@item.aluminium_can_price</td>
+                <td>@item.paper_weight</td>
+                <td>@item.paper_price</td>
+                <td>@item.plastic_weight</td>
+                <td>@item.plastic_price</td>
+                <td>@item.sales_total</td>
+            </tr>
+        }
+    </tbody>
+
+</table>

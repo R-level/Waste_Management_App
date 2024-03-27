@@ -1,7 +1,76 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\sales\\viewsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\sales\\viewsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\addwaste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\addwaste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\sales\\addsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\sales\\addsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\collections\\viewcollections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\collections\\viewcollections.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\sales\\addsales.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\sales\\addsales.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Migrations\\20240326213140_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240326213140_SecondMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\sales\\viewsales.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\sales\\viewsales.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:model\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\pages\\addwaste.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\addwaste.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,6 +87,233 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T08:47:28.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T08:47:04.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\ViewSales.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Sales\\ViewSales.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\ViewSales.cshtml*",
+              "RelativeToolTip": "Pages\\Sales\\ViewSales.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T17:51:06.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAUwGkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:56:19.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T21:15:37.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Services\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Services\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:55:30.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddSales.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\AddSales.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Sales\\AddSales.cshtml.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\AddSales.cshtml.cs",
+              "RelativeToolTip": "Pages\\Sales\\AddSales.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:27:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\AddSales.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Sales\\AddSales.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\AddSales.cshtml",
+              "RelativeToolTip": "Pages\\Sales\\AddSales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T18:02:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddWaste.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\AddWaste.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AddWaste.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\AddWaste.cshtml",
+              "RelativeToolTip": "Pages\\AddWaste.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T18:35:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Home.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Home.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Home.cshtml",
+              "RelativeToolTip": "Pages\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T08:38:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewCollections.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Collections\\ViewCollections.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Collections\\ViewCollections.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Collections\\ViewCollections.cshtml",
+              "RelativeToolTip": "Pages\\Collections\\ViewCollections.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T08:41:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T21:50:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240326213140_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Migrations\\20240326213140_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240326213140_SecondMigration.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Migrations\\20240326213140_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20240326213140_SecondMigration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:31:40.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:56:48.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewSales.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\ViewSales.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Sales\\ViewSales.cshtml.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\ViewSales.cshtml.cs",
+              "RelativeToolTip": "Pages\\Sales\\ViewSales.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:53:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddWaste.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\AddWaste.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddWaste.cshtml.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\AddWaste.cshtml.cs",
+              "RelativeToolTip": "Pages\\AddWaste.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:50:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Model\\Sale.cs",
+              "RelativeDocumentMoniker": "Model\\Sale.cs",
+              "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Model\\Sale.cs",
+              "RelativeToolTip": "Model\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:57:51.937Z",
+              "EditorCaption": ""
             }
           ]
         }
