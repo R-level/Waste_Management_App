@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:pages\\sales\\addsales.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|c:\\users\\remle\\source\\repos\\r-level\\waste_management_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B842D52C-1527-4FD8-A323-F41534A8614F}|Waste_Management_App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -100,11 +100,11 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "bootstrap.rtl.css",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
@@ -128,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "bootstrap.css.map",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
@@ -152,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "bootstrap-grid.css",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -164,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "bootstrap-utilities.css",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
@@ -176,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -188,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -200,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
@@ -212,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -236,19 +236,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Services\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Services\\ApplicationDBContext.cs",
               "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Services\\ApplicationDBContext.cs",
               "RelativeToolTip": "Services\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T20:55:30.423Z"
+              "WhenOpened": "2024-03-26T20:55:30.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "AddSales.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\AddSales.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Sales\\AddSales.cshtml.cs",
@@ -260,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AddSales.cshtml",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Sales\\AddSales.cshtml",
               "RelativeDocumentMoniker": "Pages\\Sales\\AddSales.cshtml",
@@ -272,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.cshtml",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Pages\\Home.cshtml",
               "RelativeDocumentMoniker": "Pages\\Home.cshtml",
@@ -296,13 +297,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\remle\\source\\repos\\R-level\\Waste_Management_App\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAmAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T20:56:48.87Z",
               "EditorCaption": ""
