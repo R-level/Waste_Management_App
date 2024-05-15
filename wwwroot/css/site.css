@@ -20,3 +20,22 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.index_img {
+    width: 100vw;
+    height: 92vh;
+    position:absolute;
+    left:0%;
+    top:7.5%;
+    opacity: 0.4;
+   
+}
+table > tr{
+    border-style: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top:20%;
+    padding-bottom:20%;
+}
+
+

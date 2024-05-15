@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Waste_Management_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92debc583a06e507fe6e2a3d962d0c408a50dd1c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ccaa6c698c0c7763addac317743b2f36453f24d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Waste_Management_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Waste_Management_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
